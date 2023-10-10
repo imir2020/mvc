@@ -1,0 +1,8 @@
+org\example\dao\UserDao$1.class
+org\example\servlets\RegistrationServlet.class
+org\example\dao\UserDao.class
+org\example\dto\UserDto.class
+org\example\servlets\AuthenticationServlet.class
+org\example\servlets\UserServlet.class
+org\example\service\UserService.class
+org\example\entity\User.class
